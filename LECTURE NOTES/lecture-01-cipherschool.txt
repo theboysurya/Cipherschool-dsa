@@ -1,0 +1,11 @@
+Objects
+An object is an entity that has state and behavior. Examples of objects include tangible items like a chair, bike, marker, pen, table, or car, and intangible items like a banking system. Objects can represent physical or logical entities.
+
+Classes
+A class is a blueprint or template from which objects are created. It defines common properties shared by a group of objects. A class is a logical entity and cannot be physically instantiated. In Java, a class can contain:
+
+Fields: Variables that store the state of the class.
+Methods: Functions that define the behavior of the class.
+Constructors: Special methods used to initialize objects.
+Blocks: Sections of code inside the class.
+Nested Classes and Interfaces: Classes and interfaces defined within the scope of another class.
