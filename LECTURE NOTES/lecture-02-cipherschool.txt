@@ -1,0 +1,22 @@
+Git Commands Overview
+Configuring User Information
+git config
+Usage: git config --global user.name "[name]"
+Usage: git config --global user.email "[email address]"
+Description: Sets the author name and email address to be used with your commits.
+Initializing a Repository
+git init
+Usage: git init [repository name]
+Description: Initializes a new Git repository.
+Staging Files
+git add
+Usage: git add [file]
+Description: Adds a file to the staging area.
+Committing Changes
+git commit
+Usage: git commit -m "[Type in the commit message]"
+Description: Records or snapshots the file permanently in the version history.
+Checking the Status
+git status
+Usage: git status
+Description: Lists all the files that have to be committed.
